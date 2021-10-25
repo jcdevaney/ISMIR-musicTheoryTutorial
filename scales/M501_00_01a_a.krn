@@ -1,0 +1,31 @@
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Theme a
+**function	**harm	**kern	**kern	**kern	**kern
+*	*	*clefF4	*clefF4	*clefG2	*clefG2
+*	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:	*G:	*G:	*G:
+8T	8I	8r	8r	8r	(8dd
+=1	=1	=1	=1	=1	=1
+4T	4I	8G	8d	8g 8b 8dd	8ggL
+.	.	8r	8r	8r	8bbJ
+4T	4V7	8D	8d	8f# 8cc 8dd	8aaL
+.	.	8r	8r	8r	8ff#J
+=2	=2	=2	=2	=2	=2
+2T	2I	8GG	8d	8g 8b 8dd	4.ddd)
+.	.	8r	8r	8r	.
+.	.	4r	4r	4r	.
+.	.	.	.	.	(16.bbLL
+.	.	.	.	.	32ggJJk)
+=3	=3	=3	=3	=3	=3
+4D	4Cc/V	8AA	8d	8f# 8a 8dd	8aaL
+.	.	8r	8r	8r	(16.ff#L
+.	.	.	.	.	32ddJJk)
+4D	4V7/V	8AA	8A	8g 8a 8cc#	8eeL
+.	.	8r	8r	8r	(16.eeL
+.	.	.	.	.	32ff#JJk)
+=4	=4	=4	=4	=4	=4
+4.D	4.V	8DD	8D	8f# 8a	4.dd
+.	.	4r	4r	4r	.
+*-	*-	*-	*-	*-	*-

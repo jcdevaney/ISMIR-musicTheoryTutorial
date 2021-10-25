@@ -1,0 +1,38 @@
+!!!COM: Mozart
+!!!OTL: 9 Variationen uber ein Minuett von Duport
+!!!Variation: Theme a
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4	*M3/4	*M3/4
+*D:	*D:	*D:	*D:
+=1	=1	=1	=1
+*	*	*^	*
+2.T	2.I	(8f#L	2.d	2aa
+.	.	8aJ	.	.
+.	.	8f#L	.	.
+.	.	8aJ	.	.
+.	.	8f#L	.	(8dddL
+.	.	8aJ	.	8aaJ
+=2	=2	=2	=2	=2
+2.T	2.I	8f#L	2.d	2ff#)
+.	.	8aJ	.	.
+.	.	8f#L	.	.
+.	.	8aJ	.	.
+.	.	8f#L	.	(8aaL
+.	.	8aJ	.	8ff#J
+=3	=3	=3	=3	=3
+2D	2Cc	8f#L	2.A	4dd)
+.	.	8aJ	.	.
+.	.	8f#L	.	4dd
+.	.	8aJ	.	.
+4D	4V7	8c#L 8g	.	(8.eeL
+.	.	8aJ	.	.
+.	.	.	.	32ddLL
+.	.	.	.	32eeJJJ
+=4	=4	=4	=4	=4
+2.T	2.I	4f#)	4d	4ff#
+*	*	*v	*v	*
+.	.	4r	4dd
+.	.	4r	4a)
+*-	*-	*-	*-
